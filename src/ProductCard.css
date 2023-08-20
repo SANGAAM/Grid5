@@ -1,0 +1,9 @@
+.centered-image {
+  display: block;
+  margin: 0 auto;
+}
+
+/* Adjust card size */
+.custom-card {
+  width: 100px; /* Set desired card width */
+}
